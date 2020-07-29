@@ -1,6 +1,6 @@
 # flux-campaign-2021-wa
 
-You are be expected to review these official forms and guides from the Western Australian Electoral Commission (WAEC):
+Review these official forms and guides from the Western Australian Electoral Commission (WAEC):
 
 https://www.elections.wa.gov.au/candidates-and-parties/forms-and-guides
 
