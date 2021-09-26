@@ -1,4 +1,4 @@
-# flux-campaign-2021-wa
+# flux-campaigns
 
 https://sites.google.com/voteflux.org/campaigns
 
